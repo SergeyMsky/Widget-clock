@@ -1,4 +1,4 @@
-# Widget clock
+# Widget clock - «just clock» ( electron.js )
 
 [![node](https://img.shields.io/npm/v/node?color=%23339933&label=node.js&logo=node.js&style=flat-square)](https://nodejs.org/en/)
 [![electron](https://img.shields.io/npm/v/electron?color=%2347848F&label=electron&logo=electron&style=flat-square)](https://www.npmjs.com/package/electron)
