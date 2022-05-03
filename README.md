@@ -8,7 +8,7 @@
 [![auto-launch](https://img.shields.io/npm/v/auto-launch?label=auto-launch&style=flat-square)](https://www.npmjs.com/package/auto-launch)
 
 ```
-git clone https://github.com/SergeyMsky/
+git clone https://github.com/SergeyMsky/Widget-clock.git
 ```
 
 Install all dependencies:
@@ -21,4 +21,4 @@ Launch app:
 
 ---
 
-![example]()
+![example](https://github.com/SergeyMsky/Widget-clock/blob/main/example-clock.gif)
