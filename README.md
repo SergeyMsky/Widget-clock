@@ -22,4 +22,3 @@ Launch app:
 ---
 
 ![example]()
-# Widget-clock
